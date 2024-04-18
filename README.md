@@ -23,6 +23,5 @@ SSIS packages are employed to facilitate the Extract, Transform, Load (ETL) proc
 
 ### ACCumulative Status Fact
 ![accf_statusfact](https://github.com/IsraTawfiq/GravityBook_Warehouse/assets/101242591/a7a51320-0714-4aef-96b9-3c56213cd887)
-
-
+![metactrlaccfact](https://github.com/IsraTawfiq/GravityBook_Warehouse/assets/101242591/4be0cdc3-7092-4fd5-8dc1-c54750bf4904)
 
