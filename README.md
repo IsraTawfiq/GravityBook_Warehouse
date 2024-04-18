@@ -14,14 +14,15 @@ The galaxy schema serves as the foundation of our data warehouse, providing a ro
 
 SSIS packages are employed to facilitate the Extract, Transform, Load (ETL) processes, enabling the seamless transfer of data from the OLTP Gravity Bookstore database to the data warehouse. Both full and incremental loads are implemented to optimize data migration and ensure data consistency.
 
-## Screenshots
+## snipp
+
+### Fact Orders full and increment load
+![ordersfull](https://github.com/IsraTawfiq/GravityBook_Warehouse/assets/101242591/7a6ecbe2-a991-4637-9db2-b326942e86da)
+![ordersfact](https://github.com/IsraTawfiq/GravityBook_Warehouse/assets/101242591/b550b8da-14e5-41fc-b1ac-3ce05ed01fb5)
+
 
 ### ACCumulative Status Fact
-![ACCumulative Status Fact](https://github.com/IsraTawfiq/GravityBook_Warehouse/assets/101242591/e97cc0ce-23d1-449b-8815-de74ce725c0f.png)
+![accf_statusfact](https://github.com/IsraTawfiq/GravityBook_Warehouse/assets/101242591/a7a51320-0714-4aef-96b9-3c56213cd887)
 
-### ACCumulative Status Fact Orders Fact
-![ACCumulative Status Fact Orders Fact](https://github.com/IsraTawfiq/GravityBook_Warehouse/assets/101242591/fc997301-c793-40d8-879b-bf78259bf8c7.png)
 
-### Increment Load Snippets
-![Increment Load Snippet 1](https://github.com/IsraTawfiq/GravityBook_Warehouse/assets/101242591/45d04b68-92f8-420c-ac46-369f69519f1d.png)
-![Increment Load Snippet 2](https://github.com/IsraTawfiq/GravityBook_Warehouse/assets/101242591/b2daccf4-9519-4385-8946-0fc109a49de6.png)
+
